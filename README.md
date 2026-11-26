@@ -4,7 +4,7 @@ On hot summer days in Texas, which hour is the hardest for the power plants to s
 
 **Short answer:** in 2019 the hardest hour was most often 4–5 PM (about 65% of days). By 2026 it was 8–9 PM (about 78% of days), four hours later. This coincides with the growth of solar, but this analysis cannot show that solar caused it.
 
-![Page 2: how the hardest hour moved](Page2.png)
+![Page 2: how the hardest hour moved](page2.png)
 
 ## The question and the metric
 
@@ -29,7 +29,7 @@ Hours use the "hour ending" convention: hour 21 means 8–9 PM.
 
 | Page 1: one hot day | Page 3: stress days |
 |---|---|
-| ![Page 1](Page1.png) | ![Page 3](Page3.png) |
+| ![Page 1](page1.png) | ![Page 3](page3.png) |
 
 1. **One hot day:** demand, solar and net load by hour, the hardest hour, and the 3 hardest hours of the selected day.
 2. **How the hardest hour moved:** a heatmap of how often each hour was the hardest, by year, plus 2019 vs 2026.
