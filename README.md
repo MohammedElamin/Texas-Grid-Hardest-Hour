@@ -4,7 +4,7 @@ On hot summer days in Texas, which hour is the hardest for the power plants to s
 
 **Short answer:** in 2019 the hardest hour was most often 4–5 PM (about 65% of days). By 2026 it was 8–9 PM (about 78% of days), four hours later. This coincides with the growth of solar, but this analysis cannot show that solar caused it.
 
-![Page 2: how the hardest hour moved](Page2.png)
+![Page 2: how the hardest hour moved](Page 2.png)
 
 ## The question and the metric
 
