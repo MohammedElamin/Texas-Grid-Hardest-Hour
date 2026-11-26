@@ -63,6 +63,7 @@ Hours use the "hour ending" convention: hour 21 means 8–9 PM.
 - **Rooftop solar is not counted.** Net load here uses utility-scale solar only, so it is not the same as the grid operator's own net load figure.
 - **One grid, one period.** The results describe ERCOT in summer, 2019–2026.
 - **Descriptive only.** This is an analysis of what happened, not a forecast.
+- The hour-by-year heatmap on page 2 shows only the 7 most frequent hours, so a few rows add up to slightly less than 100%. The days left out are ones where the hardest hour fell outside those 7 columns.
 
 ## Reproduce it
 
